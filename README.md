@@ -1,7 +1,7 @@
-# Koma CryptoCurrency
+# SLV Crypto
 ## Made with Firebase-Firestore and MUI
 
-### Demo - https://koma-crypto.netlify.app/
+### Demo - 
 
 <hr/>
 
